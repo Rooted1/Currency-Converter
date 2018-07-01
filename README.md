@@ -2,9 +2,3 @@
 
   This is a web application that takes advantage of the functionalities of Freecurrencyconverterapi to convert one currency to another while offline or online.
 
-
-## Features
-
-   Currency conversions
-  | Offline usage
-
